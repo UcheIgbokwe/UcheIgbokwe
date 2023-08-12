@@ -8,3 +8,4 @@
 UcheIgbokwe/UcheIgbokwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[AZ204-Certifications - UcheIgbokwe.pdf](https://github.com/UcheIgbokwe/UcheIgbokwe/files/12328206/AZ204-Certifications.-.UcheIgbokwe-2748._.Microsoft.Learn.pdf)
